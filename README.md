@@ -1,6 +1,6 @@
  <div align="center">
 
-# Muhammad Abubakar
+# Abubakar Chisti
 
 ### Full Stack Developer · AI Integrator · Automation Engineer
 
