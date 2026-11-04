@@ -165,6 +165,10 @@ Have a project idea, collaboration opportunity, or interesting technical challen
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abubakar-niaz-410046394/)
 
+[![Facebook](https://img.shields.io/badge/FACEBOOK-abubakar.niaz.396-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abubakar.niaz.396)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-abubakarniaz3-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abubakarniaz3/)
+
 ### Build. Learn. Automate. Ship.
 
 *Turning ideas into impactful digital experiences.*
