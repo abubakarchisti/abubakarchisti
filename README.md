@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-dev--3--d--portfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-3-d-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow%20My%20Work-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abubakarchisti)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abubakar-niaz-410046394/)
+![Facebook](https://img.shields.io/badge/https%3A%2F%2Fwww.facebook.com%2Fabubakar.niaz.396)
+
 
 </div>
 
